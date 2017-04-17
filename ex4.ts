@@ -16,7 +16,7 @@ function Property(target:any,propertyName:any){
         Object.defineProperty(target,propertyName,{
             get:getter,
             set:setter,
-            configurable:true
+            configurable:true 
         });
     }
 }

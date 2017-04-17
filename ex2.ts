@@ -4,7 +4,7 @@ class Car {
 
     constructor(name:string){
         this.name = name;
-    }
+    } 
 
     honk():void{
         console.log('{this.name} is saying Tooooooooot!!');

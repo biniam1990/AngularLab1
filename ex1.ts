@@ -14,7 +14,7 @@ let asaad:person = {
     hobbies:["Violin","Cooking"]
 }
 
-let berhanu:person = {
+let Biniam:person = {
     name:"Biniam",
     account:bankAccount,
     hobbies:["volley ball","reading"]
